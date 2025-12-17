@@ -1,3 +1,3 @@
 # Placeholder for longvideobench_dataset.py
-# Original source: https://github.com/longvideobench/LongVideoBench
-# To be replaced with actual implementation
+# Source: https://github.com/longvideobench/LongVideoBench/blob/main/longvideobench_dataset.py
+# Content fetch failed. Please manually copy the file.
